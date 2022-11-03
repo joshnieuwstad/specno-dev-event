@@ -26,16 +26,41 @@ function(signature: number[], n: number) {
 }
 ```
 
-### **Example 1**
+### Example 1
 
 ```
 Input: [1,1,1,1] 10
 Output: [1,1,1,1,4,7,13,25,49,94]
 ```
 
-### **Example 2**
+#### Explanation
+
+The length of the signature is 4. Therefore, we need to find the sum of the previous 4 elements to calculate the next digit. `1+1+1+1=4`, hence the next digit is 4. To find the next digit we repeat the process except with the updated previous 4 numbers. In this case, `1+1+1+4=7`. This pattern continues until the 10th digit is calculated.
+
+### Example 2
 
 ```
 Input: [0, 1] 10
 Output: [0,1,1,2,3,5,8,13,21,34]
+```
+
+### Example 3
+
+```
+Input: [0, 1, 1, 0, 4] 2
+Output: [0, 1]
+```
+
+### Example 4
+
+```
+Input: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0], 20
+Output: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 4, 8, 16 ,32, 64, 128, 256]
+```
+
+### Example 5
+
+```
+Input: [1], 5
+Output: [1, 1, 1, 1, 1]
 ```

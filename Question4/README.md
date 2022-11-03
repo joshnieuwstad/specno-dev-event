@@ -32,3 +32,10 @@ function(direction: string, arr: number[]) {
 Input: 'R', [3, 2, 1, 2]
 Output: [1, 2, 2, 3]
 ```
+
+### **Example 2**
+
+```
+Input: 'L', [1, 1, 5, 4, 3]
+Output: [5, 4, 3, 1, 1]
+```
