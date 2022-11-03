@@ -34,3 +34,13 @@ Make sure to checkout your branch and complete the questions there.
 ### Support from the Specno Devs
 
 As mentioned in the welcoming talk, each one of you will be assigned a Specno developer to help you through these challenges. It is important for us to define what 'help you through these challenges' means. Is does not mean that we will simply give you the answer if you become stuck. Rather, we will act as a 'Rubber Duck' and help talk you through the problem you are facing. To reiterate, we are looking to evaluate how you think or how you approach problems. Getting stuck on a particular problem is a day to day thing in the life of a dev. How you become unstuck is what we want to see.
+
+### In Closing
+
+Lastly, remember to have fun and, arguably more importantly, learn from one another. You're in a wonderful position to engage with other developers at a similar stage in their career.
+
+Additionally, you have the opportunity to interact with the Specno developers who were in your shoes not so long ago. Most of the developers only got started in the tech industry very recently. Take advantage of that and pick up on things that we wish we had known when trying to break into the industry.
+
+As mentioned at the top of this readme, Specno wants to get to know all of you and evaluate your technical skills but what's more important to us is that each one of you take some value away from tonight.
+
+Best of luck with the challenges!
