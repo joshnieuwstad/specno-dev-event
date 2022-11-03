@@ -19,6 +19,8 @@ Obviously getting the coding questions correct is the goal. However, we understa
 
 Please add your thoughts to the **Thoughts and Process** section in the readme of the question.
 
+To test your code, make use of the examples given in the readme of each problem.
+
 ### When you are done
 
 You'll notice that this repo has a branch for each one of you. Before starting the challenges, make sure to checkout your branch and complete the questions there.
