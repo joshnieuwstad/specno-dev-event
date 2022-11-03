@@ -37,3 +37,5 @@ Output:
 ********
 
 ```
+
+## Thoughts and Processes

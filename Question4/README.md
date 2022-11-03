@@ -39,3 +39,5 @@ Output: [1, 2, 2, 3]
 Input: 'L', [1, 1, 5, 4, 3]
 Output: [5, 4, 3, 1, 1]
 ```
+
+## Thoughts and Processes
