@@ -66,3 +66,18 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+1) Store the signiture array in var called outputArray
+
+2) initialize var called nextSum which will be the sum of all previous elements summed together to get the next value.
+
+3) Create the outer forloop which will be used to populate the outputArray after finding the value.
+
+4)In the inner for-loop finding the next value using this logic
+    - from starting element i to  element( i + signiture.length)
+    -sum all values in range(i,i+signiture.length).
+    - if i===signiture.length
+      add the summed value in the outputArray and break your inner array
+
+
+- Challenges my output array had extra elements so if the signiture element is 4, we will have extra 4 elements. I don't  understand why yet, but to prevent it from happening I kept a condition to ensure the array doesn't exceed n.
+if(outputArray.length===n)
