@@ -40,8 +40,8 @@ Output:
 
 ## Thoughts and Processes
 
-Step 1: found the length of the longest word and added 4 to it.
+Step 1: found the length of the longest word and added 4 to it (because of the '_ ' at the beginning and the ' _' at the end of the strings).
 Step 2: used this length to repeat asterisks to create the top and bottom border of the output.
 Step 3: used a for loop and the function padEnd() to format the strings.
 
-There are some edge cases though: such as if the input array is empty or if one of the strings in the array is empty.
+One edge case I identified is if the input array is empty (I threw an error).
