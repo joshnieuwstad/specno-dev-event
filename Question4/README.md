@@ -41,3 +41,7 @@ Output: [5, 4, 3, 1, 1]
 ```
 
 ## Thoughts and Processes
+- Initially I thought this problem to be quite complicated becasuse I was thinking how gravity works and had to move the 'boxes' to their location.
+- I soon relaised I could just sort the array in a descending or ascending order as it would have the same effect.
+- After writing a bubble sort to sort the array, it was pointed out to me Python has a built in sort method. 
+- After using this method, the solution became much shorter and simpler.
