@@ -1,27 +1,25 @@
-let input = ['test', 't'];
+function asteriskBorder(words){
+  if (words.length == 0) throw Error('Array should have at least one element');
 
-let longestWord = '';
-let lengthOfAsteriskBorder;
-let widthOfAsteriskBorder;
+  let longestWord = '';
 
-for (word of input){
-  if (word.length > longestWord.length){
-    longestWord = word;
+  for (word of words){
+    if (word.length > longestWord.length){
+      longestWord = word;
+    }
   }
+
+  let lengthOfAsteriskBorder = longestWord.length + 4;
+  let output = ''
+
+  let topAndBottomBorder = '*'.repeat(lengthOfAsteriskBorder);
+  output = topAndBottomBorder;
+
+  for (let i = 0; i < words.length; i++){
+    output += '\n' + '* ' + words[i].padEnd(lengthOfAsteriskBorder - 4, ' ') + ' *';
+  }
+
+  output += '\n' + topAndBottomBorder;
+
+  return output;
 }
-
-lengthOfAsteriskBorder = longestWord.length + 4;
-
-let output = ''
-
-let topBorder = '*'.repeat(lengthOfAsteriskBorder);
-output = topBorder;
-
-for (let i = 0; i < input.length; i++){
-  output += '\n' + '* ' + input[i].padEnd(lengthOfAsteriskBorder - 4, ' ') + ' *';
-}
-
-let bottomBorder = '*'.repeat(lengthOfAsteriskBorder);
-output += '\n' + bottomBorder;
-
-console.log(output)
