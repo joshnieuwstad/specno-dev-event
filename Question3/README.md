@@ -66,3 +66,15 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+ 
+            //create a list sequence list with an array as a parameter
+           
+            //get the length of the array
+            
+
+            //loop through the array with the length being the starting point
+          
+                //add the difference of the instance and sequence and add them in preparation for the next number in the array
+               
+     //print the array 
