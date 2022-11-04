@@ -1,17 +1,11 @@
-# Thinking Questions
-
-The following questions are meant to be open ended and have no definite yes/no answer. Please feel free to explore your thoughts and write down whatever comes to mind.
-
 ## It's Load Shedding!
 
-2pm on a Wednesday and the lights go out for the next two hours. Sprint ends on Friday and you have a lot of work to get through before then. However, without internet, you cannot interact with your co-workers or use the internet.
-
-How do you make sure that when the power comes on again that you haven't just wasted two hours waiting around.
+In my experience, the actual coding is the last step of the process of solving a problem. So I'd use the time to think about the problem and map out a solution so that when the power comes back on, I'm ready to code.
 
 ## Running into a Wall
 
-Please share a time when you faced an unexpected challenge (inside or outside of the work place). How did you overcome this challenge?
+Being a dev means facing unexpected challenges, for example, working with tools you know virtually nothing about. Pattern recognition through reading other people's code has turned out to be a good method to learn. Having solid knowledge about every tool out there is not feasible, so this method has worked well for me.
 
 ## Accountability
 
-How do you keep yourself accountable?
+Setting goals and being open about them.
