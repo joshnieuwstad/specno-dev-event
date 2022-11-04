@@ -12,4 +12,4 @@ def xbonacci(sig, n):
     return sig
 
 if __name__ == '__main__':
-    print(xbonacci([1], 5))
+    print(xbonacci([1, 0, 0, 0, 0, 0, 0, 0, 0, 0], 20))

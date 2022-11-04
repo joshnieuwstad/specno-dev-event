@@ -7,4 +7,4 @@ def gravityFlip(direction, arr):
     return arr
 
 if __name__ == '__main__':
-    print(gravityFlip('L', [3, 2, 1, 2]))
+    print(gravityFlip('L', [1, 1, 5, 4, 3]))

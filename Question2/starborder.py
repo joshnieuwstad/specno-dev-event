@@ -12,5 +12,4 @@ def starborder(wordArray):
 
 
 if __name__ == '__main__':
-    words = ['laptop', 'phone', '']
-    print(starborder(words))
+    print(starborder(['laptop', 'phone', 'charger']))
