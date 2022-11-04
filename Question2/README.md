@@ -39,3 +39,5 @@ Output:
 ```
 
 ## Thoughts and Processes
+thinking of creating a function then within that function i will iterate through the list that i have passed as a parameter
+i have created a for loop within the function.

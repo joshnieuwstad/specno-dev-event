@@ -29,3 +29,7 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 ```
 
 ## Thoughts and Processes
+i have created 2 array that i will store the list 
+then i ask the user for input from there i have created a loop that iterates throught the range of provided number .
+From there i then append array 1 with the range of numbers
+i have a second for loop that in it i have conditional statements that evaluate if within then range numbers they are divisible by 3 and 5 .Then it will raplce that element with fizz or buzz.
