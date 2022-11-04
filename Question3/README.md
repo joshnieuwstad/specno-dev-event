@@ -66,3 +66,21 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+- I noticed that the new array is the length of the second number.
+- The first number in the array is the same as the numbers in the original array, so they need to be added first
+- The following number is all of the previous numbers added together
+- The number following is all the previous minus the first number.
+- Then I concluded that it is the last numbers added together based on the length of the original array.
+
+## Process
+
+- Get the length of the original array
+- Create a new empty array that will store the values
+- Create a for loop that runs the amount of times of the input Length (Second number  of the function)
+
+Inside the Loop:
+- Have an if Statement that if the iteration is within the lenght of the original array to push the original array item
+- Else create a sum of the last X amount of items based on last indexes
+
+Return this new Array

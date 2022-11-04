@@ -41,3 +41,8 @@ Output: [5, 4, 3, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+I noticed the patern that if items is moved to the left, the same numbers in the array is decending from largest to smallest.
+When they are moved to the right, it is from smallest to largest.
+
+Based on identifying this patern, I could build an if statement in which direction the array should ascent / decent.
