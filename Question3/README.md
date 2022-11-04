@@ -66,3 +66,8 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+- First thoughts were wrapping my head around the problem and understanding what the problem is about.
+- It was clear I needed to find the length of the signature provided.
+- Initially I worked on solving the first case of just finding the next digit of the array by looping through the array by the length of the signature and summing the elements. Then just append it to the array.
+- The next step was doing the above step n times, so I put the above step in a for loop. I soon releasied I needed to adjust the starting and end points of the inner for loop based on the index of the outer for loop. This created a sliding window effect on the array.
+- The method was working for all cases except for cases where the given input `n` is less that the signature input. I just popped off the extra elements of the array until the signature is of length `n`.

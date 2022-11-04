@@ -29,3 +29,6 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 ```
 
 ## Thoughts and Processes
+Had to remember python syntax, decided on python due to less setup.
+First approach was to loop through array of size n and just print the index.
+Then just need to check the modulus 3 or 5 of the index to add Fizz or Buzz respectively.
