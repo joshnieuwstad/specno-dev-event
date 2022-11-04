@@ -41,3 +41,5 @@ Output: [5, 4, 3, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+Fancy way to ask someone to sort an array in either ascending or descending order!
