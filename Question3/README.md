@@ -68,7 +68,6 @@ Output: [1, 1, 1, 1, 1]
 ## Thoughts and Processes
 
 Step 1: I dealt with the edge cases in example 3 and example 5 first.
-Step 2: The function must run until the array is the desired length. Hence, I use a while loop.
-Step 3: create a copy of signature param which I'll append to and eventually return.
-Step 3: Keep adding and appending to the copy of the signature array until the while loop exits.
-Step 4: return the desired output.
+Step 2: The function must run until the array is the desired length, n. Hence, I use a while loop.
+Step 3: Keep adding and appending to the signature array param until its length == n, and the while loop exits.
+Step 4: return the signature array.
