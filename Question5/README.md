@@ -14,7 +14,7 @@ How do you make sure that when the power comes on again that you haven't just wa
 
 Please share a time when you faced an unexpected challenge (inside or outside of the work place). How did you overcome this challenge?
 
-"Whenever I am stuck on aproblem, I try to get out of the room and do something else. Most of the time go on a run or to the gym."
+"Whenever I am stuck on a problem, I try to get out of the room and do something else. Most of the time, I go on a run or to the gym."
 
 ## Accountability
 
