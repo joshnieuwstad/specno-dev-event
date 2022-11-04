@@ -2,10 +2,10 @@
 
 Given an integer `n`, return a string array, `answer` (1-indexed) where:
 
-- `answer[i] = FizzBuzz` if `i` is divisible by 3 and 5.
-- `answer[i] = Fizz` if `i` is divisible by 3.
-- `answer[i] = Buzz` if `i` is divisible by 5.
-- `answer[i] = i` if none of the above conditions are true.
+-  `answer[i] = FizzBuzz` if `i` is divisible by 3 and 5.
+-  `answer[i] = Fizz` if `i` is divisible by 3.
+-  `answer[i] = Buzz` if `i` is divisible by 5.
+-  `answer[i] = i` if none of the above conditions are true.
 
 ### **Example 1**
 
@@ -29,3 +29,10 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 ```
 
 ## Thoughts and Processes
+
+-  create an empty array where I can push the results to
+
+-  add if else statements where I add the conditional logic for whether items
+   are divisible by 3 & 5 or not/
+
+-  console.log the results.
