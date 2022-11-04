@@ -30,6 +30,7 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 
 ## Thoughts and Processes
 
-Step 1: check for divisibility by 3 AND 5.
-Step 2: check for divisibility by either 3 OR 5.
-Step 3: else append to the output array as a string.
+Step 1: check for divisibility by 3 && 5. If so, append 'FizzBuzz'.
+Step 2: check for divisibility by 3 only. If so, append 'Fizz'.
+Step 3: check for divisibility by 5 only. If so, append 'Buzz'.
+Step 4: If none of the above conditions are met, append to the number to the ouptut array as a string.
