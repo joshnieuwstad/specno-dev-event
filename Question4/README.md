@@ -41,3 +41,5 @@ Output: [5, 4, 3, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+Tricky :) Use sort function

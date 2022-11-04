@@ -66,3 +66,5 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+tried to use recusrion but failed miserably. used a simple for loop and adding last X elements of string and keep append elements to string.

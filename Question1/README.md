@@ -29,3 +29,5 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 ```
 
 ## Thoughts and Processes
+
+Quite easy. Needs to initialize a list and create a loop that start with 1. Add if statements for the if conditions.

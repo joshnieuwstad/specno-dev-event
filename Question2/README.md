@@ -39,3 +39,5 @@ Output:
 ```
 
 ## Thoughts and Processes
+
+Asterisks depend on length of longest string. Strings are also left adjusted.
