@@ -21,7 +21,7 @@ namespace Question3
 
             Console.WriteLine("\nXFIBONACCI\n");
 
-            int[] testcase = { 1, 1, 1,  };
+            int[] testcase = { 1, 1, 1, 1 };
             int n = 10;
             //Calling function in foreach because C# does not like to do it in any other way
             foreach(int i in MyFibo(testcase, n)){
@@ -44,7 +44,7 @@ namespace Question3
                 //Add new Object to the end of the fibonacci list
                 //skip bypasses a number of elements in a sequence and returns the remaining elements
                 //i-count determines from which point in the sequence Skip is activated. 
-                //ie: instance 7 111147
+                
                 pattern.Add(pattern.Skip(i - count).Take(count).Sum());
                 
             }
