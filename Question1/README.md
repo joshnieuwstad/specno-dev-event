@@ -29,3 +29,9 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 ```
 
 ## Thoughts and Processes
+
+## the question is asking to return any integer which returns an array of string 'answer'
+
+## so basically l will write an function that will take the parameter n
+
+## the n integer is returning the number of items in an array
