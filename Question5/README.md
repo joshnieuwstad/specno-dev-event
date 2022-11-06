@@ -10,12 +10,12 @@ How do you make sure that when the power comes on again that you haven't just wa
 
 ### Answer
 
-If I know that the power is going to be off and for an unforseen reason I'm not at a power backup point, these are the steps I would follow.
+If I know that the power will be off and for an unforeseen reason, I'm not at a power backup point; these are the steps I would follow.
 
-- I would download the current project that I am working on to my laptop which should last a while.
-Based on this project, I would do as much as possible of tasks that I do not require the internet.
+- I would download the current projects I am working on to my laptop, which should last a while without power.
+Based on this project, I would do tasks that do not require the internet.
 
-- Once this is done, I would start tackling all my emails. The moment the internet goes back on, all the emails will automatically. 
+- Once this is done, I will start tackling all my emails. The moment the internet goes back on, all the emails will send automatically.
 
 ## Running into a Wall
 
@@ -23,25 +23,28 @@ Please share a time when you faced an unexpected challenge (inside or outside of
 
 ### Answer
 
-I have been in an airoplane, as I was taking off with the plane I notices I kept losing power. This was very strange un declarable at first because all my checks shows that everything is in good working order.
+I was in an aeroplane, and as I was taking off with the plane I noticed I kept losing power. This was very strange and un declarable at first because all my checks showed that everything was in good working order.
 
 What made it worse was that it was on an airshow and the runway was super busy.
 
-I identified that non of the logical solutions is solving it and I have to act quicly otherwise I might be in a lot of trouble.
+I identified that non of the logical solutions is solving it, and I have to act quickly; otherwise, I might be in a lot of trouble.
 
-I called for the tower and informed them that I have a problem and I need to make a prioroty landing, they would have to clear any planes that is currently on the runway. I did not want to call a mayday because I could still manouver to an extent to contol the situation and use the altitude that I have to my benefit to try make a normal landing.
+I called the tower and informed them that I had a problem and needed to make a priority landing; they would have to clear any planes currently on the runway. I did not want to call a mayday because I could still manoeuvre to an extent to control the situation and use the altitude I had to my benefit to try to make a normal landing.
 
-Keeping calm was essential in this situation and open communication, as specially since there was so many people present.
+Keeping calm and open communication was essential in this situation, especially since so many people were present.
 
-Luckily I was able to land safely even if I did land down wind instead of up wind.(This is not the norm)
+Luckily I could land safely even if I did land downwind instead of upwind.(This is not the norm)
 
-After investigation it was found that there was dirt particles in the fuel tank that caused the airoplane to power ever now and again.
+After investigation, it was found that there were dirt particles in the fuel tank that caused the aeroplane to lose power every now and again as it blocked the fuel supply.
+
 ## Accountability
 
 How do you keep yourself accountable?
 
 ### Answer
 
-I am a person that is actually hard on myself and always push to be better. I also have people in my life that I have identified who will call me on my BS if I am at any point in my life not focussing on the right things.
+I am a person who is hard on myself and always pushes to improve. I also have people in my life who I have identified who will call me on my BS if I am not focussing on the right things at any point in my life.
 
-Part of these people is spiritual leaders session atleast once a month, weekly mentor calls and much more.
+Part of these people is spiritual leaders session at least once a month, weekly mentor calls and much more.
+
+I set goals for myself frequently as I tick off the previous goals and place an estimated deadline for achieving each goal.
