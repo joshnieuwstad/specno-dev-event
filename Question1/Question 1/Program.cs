@@ -18,7 +18,7 @@ namespace Question_1
             int n = Int32.Parse(Console.ReadLine());
             Console.WriteLine("The number you have chosen is: {0}", n);
 
-
+            //Loop through array and replace matching conditions with FizzBuzz, Fizz and Buzz
             for (int i = 1; i <= n; i++)
             {
                 if (i % 3 == 0 && i % 5 == 0)

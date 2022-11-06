@@ -21,7 +21,7 @@ namespace Question3
 
             Console.WriteLine("\nXFIBONACCI\n");
 
-            int[] testcase = { 1, 1, 1, 1 };
+            int[] testcase = { 1, 1, 1, 9, 12 };
             int n = 10;
             //Calling function in foreach because C# does not like to do it in any other way
             foreach(int i in MyFibo(testcase, n)){
