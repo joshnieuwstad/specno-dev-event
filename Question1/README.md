@@ -30,3 +30,4 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 
 ## Thoughts and Processes
 //print array out based on conditions provided
+//My Thouhts are in my code as comments at each stage of the process. 
