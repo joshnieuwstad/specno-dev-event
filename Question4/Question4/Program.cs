@@ -40,10 +40,9 @@ namespace Question4
             }
             else
             {
-                //if user inserts anything except r,lR or L. User is insulted. 
+                //if user inserts anything except r,l, R or L. User is insulted. 
                 Console.WriteLine("You did not type in L,R,l or r... Start over");
             }
-
 
             int[] boxGroup = arr;
             switch (d)
@@ -79,8 +78,7 @@ namespace Question4
                 Console.WriteLine("That was not a proper direction, as you can see- the boxes did not move. ");
             }
 
-            
-
+            //keep console open 
             Console.ReadKey();
 
 

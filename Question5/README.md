@@ -10,7 +10,7 @@ How do you make sure that when the power comes on again that you haven't just wa
 
 ## My Answer
 Hopefuly my laptop battery is charged and i can use this time to review 
-what i have done so far or plan a bit better for what comes next. the 
+what i have done so far, or plan a bit better for what comes next. the 
 other option would be to take a breather while the power is out  and later
 work the time in. either way ill get my daily goals done (less sleep or skip 
 shower time.). Coding is not about how long i code for. hours are irrelevant to me. i 

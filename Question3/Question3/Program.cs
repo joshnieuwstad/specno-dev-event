@@ -23,7 +23,7 @@ namespace Question3
 
             int[] testcase = { 1, 1, 1, 9, 12 };
             int n = 10;
-            //Calling function in foreach because C# does not like to do it in any other way
+            //Calling function in foreach because C# does not like to do it in any other way(Allegedly)
             foreach(int i in MyFibo(testcase, n)){
                 Console.WriteLine(i);
             }
