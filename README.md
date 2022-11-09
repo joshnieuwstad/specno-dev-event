@@ -44,3 +44,5 @@ Additionally, you have the opportunity to interact with the Specno developers wh
 As mentioned at the top of this readme, Specno wants to get to know all of you and evaluate your technical skills but what's more important to us is that each one of you take some value away from tonight.
 
 Best of luck with the challenges!
+###
+Thank for the extending the oppotunity to participate in this past event ,this was very eye opening gave me a glimpse of that i have to do in preparation for code wars.I have to revisit the basics and strengthen my data structures and algorithms.I look for foward to attending more events from Specno.
