@@ -39,5 +39,5 @@ Output:
 ```
 
 ## Thoughts and Processes
-thinking of creating a function then within that function i will iterate through the list that i have passed as a parameter
-i have created a for loop within the function.
+l am thinking of creating a function then within that function,i am thinking of first determining the biggest word within a list then take note of the number of characters in that word.This number of characters will determine the top line of stars after adding four more characters (*), this will account for width of the box.The left height is easy i will hard code the star in the print statement.The only part i am left with is the right side of the box.I will iterate through the list that i have passed as a parameter
+then print the list within the box.

@@ -66,3 +66,6 @@ Output: [1, 1, 1, 1, 1]
 ```
 
 ## Thoughts and Processes
+
+This question took me some time to understand what was required then when i figured out what was required converting that to code was a drag.So here is what i will do ,get an input from user this will be the nth:number.I will have to initiate 2 variables which will be the start of the sequence first variable with value of zero then second variable with a value of 1,i will then use a conditional statement to validate the input from the user if its an integer .
+In the else block i will have to check if nth:number is bigger than the count variable then for the next number in sequence i will add the two variables that i have initialised and store the result in nth.Then i will update the n1 with n2 and n2 with nth then increace the count by 2.I am trying to figure out how to use the signature 
